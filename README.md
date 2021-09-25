@@ -7,3 +7,5 @@ Die SQL-Datei ist unter dem folgenden Link:
 [SQL-Datei Aufgabe 6](/Scripts/Aufgabe-6.sql)
 Und ein ERD-Diagramm erstellt, das wie folgt aussieht. 
 ![A6-erd](/Bilder/A6_Erd.jpg)  
+
+change
