@@ -33,4 +33,4 @@ UPDATE fahrzeiten_soll_ist SET datumzeit_ist_ab_nach = DATE_ADD(STR_TO_DATE(datu
 ,'%d.%m.%Y'), INTERVAL ist_ab_nach SECOND);
 
 UPDATE fahrzeiten_soll_ist SET datum__nach =STR_TO_DATE(datum_nach ,'%d.%m.%Y');
-
+update
