@@ -19,4 +19,23 @@ und die SQL-Datei dazu:
 [SQL-Datei Aufgabe 7](/Scripts/Aufgabe-7.sql)
 
 ## Aufgabe 8: Linien Tabelle
+Aufgabe 8 a und b ) Linien-Abfrage  und View
+Diese Abfrage zeigt für Linie 4 alle Varianten der Richtungen ohne Redundanzen. 
+![A8_a](/Bilder/A8a.jpg)  
+Und das entsprechende [Skript für 8 a und b](/Scripts/Aufgabe_8ab.sql)
+
+Aufgabe 8b) View mit Richtungen und alle Daten. 
+Hier ist Vorschau von dem View. Aus Platzgründen können nicht alle Daten abgebildet werden. 
+![A8_b](/Bilder/A8b.jpg) 
+
+Aufgabe 8c) Erstellen einer neuen Tabelle Linie mit Hilfe einer Abfrage
+In diesem Teil wurde eine neue Tabelle mit dem Befehl "select distinct" erstellt.
+![A8_c](/Bilder/A8c.jpg) 
+Das entsprende Skript ist unten verlinkt.   
+[Link Skript 8c](/Scripts/Aufgabe_8c.sql)  
+
+
+
+
+
 
