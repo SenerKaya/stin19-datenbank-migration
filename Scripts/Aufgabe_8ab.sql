@@ -1,8 +1,4 @@
-
-
-
 /* Aufgabe 8a select distinct einmalige Werte erstellen.  */
-/*
 select distinct
 	fsi.fahrweg_id, 
     fsi.linie,
@@ -13,11 +9,10 @@ select distinct
 from
     vbzdat.fahrzeiten_soll_ist fsi
    where fsi.linie =4;
-  */
+
    
 
- /* 8b View erstellen   */
-
+ /* Aufgabe 8b View erstellen   */
    CREATE OR REPLACE VIEW vbzdat.query_line
 AS select
     fsi.linie,

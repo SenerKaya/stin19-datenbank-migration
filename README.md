@@ -21,13 +21,13 @@ und die SQL-Datei dazu:
 
 ## Aufgabe 8: Linien Tabelle  
 **Aufgabe 8 a und b ) Linien-Abfrage  und View**    
-Diese Abfrage zeigt für Linie 4 alle Varianten der Richtungen ohne Redundanzen.  
+Diese Abfrage zeigt für Linie 4 alle Varianten von Richtungen ohne Redundanzen.  
  
 ![A8_a](/Bilder/A8a.jpg)  
 Und das entsprechende [Skript für 8 a und b](/Scripts/Aufgabe_8ab.sql)
 
-**Aufgabe 8b) View mit Richtungen und alle Daten**   
-Hier ist Vorschau von dem View. Aus Platzgründen können nicht alle Daten abgebildet werden.  
+**Aufgabe 8b) View mit allen Richtungen und alle Daten**   
+Hier ist ein Ausschnitt von dem View. Aus Platzgründen können nicht alle Daten abgebildet werden.  
  
 ![A8_b](/Bilder/A8b.jpg) 
 
