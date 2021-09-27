@@ -35,8 +35,8 @@ Hier ist ein Ausschnitt von dem View. Aus Platzgründen können nicht alle Daten a
 In diesem Teil wurde eine neue Tabelle mit dem Befehl "select distinct" erstellt.
 ![A8_c](/Bilder/A8c.jpg)  
  
-Das entsprende Skript ist unten verlinkt.     
-[Link Skript 8c](/Scripts/Aufgabe_8c.sql)  
+Das entsprechende Skript ist unten verlinkt.     
+[Link zu Skript Aufgabe 8c](/Scripts/Aufgabe_8c.sql)  
 
 
 
