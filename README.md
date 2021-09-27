@@ -33,8 +33,9 @@ Hier ist ein Ausschnitt von dem View. Aus Platzgründen können nicht alle Daten a
 
 **Aufgabe 8c) Erstellen einer neuen Tabelle Linie mit Hilfe einer Abfrage**  
 In diesem Teil wurde eine neue Tabelle mit dem Befehl "select distinct" erstellt.
-![A8_c](/Bilder/A8c.jpg) 
-Das entsprende Skript ist unten verlinkt.   
+![A8_c](/Bilder/A8c.jpg)  
+ 
+Das entsprende Skript ist unten verlinkt.     
 [Link Skript 8c](/Scripts/Aufgabe_8c.sql)  
 
 
