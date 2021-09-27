@@ -5,7 +5,7 @@ Wir haben in dieser Aufgabe für die Tabellen "fahrzeiten_soll_ist, haltepunkt un
 Danach haben wir die Attribute die ein Datum enthalten in Datumformat verwandelt. Diese waren vorhin in "char" Format.   
 Die SQL-Datei ist unter dem folgenden Link:  
 [SQL-Datei Aufgabe 6](/Scripts/Aufgabe-6.sql)  
-Und ein ERD-Diagramm [ERD-Diagramm](/Diagrams/Aufgabe6_ERD.erd)  erstellt, das wie folgt aussieht.   
+Und ein [ERD-Diagramm](/Diagrams/Aufgabe6_ERD.erd)  erstellt, das wie folgt aussieht.   
 ![A6-erd](/Bilder/A6_Erd.jpg)  
 
 
