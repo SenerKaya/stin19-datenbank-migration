@@ -4,7 +4,7 @@
 Wir haben in dieser Aufgabe für die Tabellen "fahrzeiten_soll_ist, haltepunkt und haltestelle" Primary Keys und Foreign Keys bestimmt und erstellt.
 Danach haben wir die Attribute die ein Datum enthalten in Datumformat verwandelt. Diese waren vorhin in "char" Format.   
 Die SQL-Datei ist unter dem folgenden Link:  
-[SQL-Datei Aufgabe 6](/Scripts/Aufgabe-6.sql)  
+[SQL-Datei Aufgabe 6](/Scripts/Aufgabe_6.sql)  
 Und ein [ERD-Diagramm](/Diagrams/Aufgabe6_ERD.erd)  erstellt, das wie folgt aussieht.   
 ![A6-erd](/Bilder/A6_Erd.jpg)  
 
@@ -13,22 +13,25 @@ Und ein [ERD-Diagramm](/Diagrams/Aufgabe6_ERD.erd)  erstellt, das wie folgt auss
 In dieser Aufgabe haben wir mit Select Abfragen, die Zeitdiffenzen von Soll- und Ist-Abfahrten ermittelt.
 Da ich verantwortlich für die Linie 4 bin, habe ich die Abfrage für diese Linie filtiert.   
 Zusätzlich habe ich die Abfrage nach dem Datum "31.12.2020" filtiert und die fahrt_id 26192 ausgewählt.   
-Hier ist eine Vorschau von der Select Abfrage.:  
+Hier ist eine Vorschau der Select Abfrage.  
+  
 ![A7-Select](/Bilder/A7-Select.jpg)  
 und die SQL-Datei dazu:  
-[SQL-Datei Aufgabe 7](/Scripts/Aufgabe-7.sql)
+[SQL-Datei Aufgabe 7](/Scripts/Aufgabe_7.sql)
 
-## Aufgabe 8: Linien Tabelle
-Aufgabe 8 a und b ) Linien-Abfrage  und View
-Diese Abfrage zeigt für Linie 4 alle Varianten der Richtungen ohne Redundanzen. 
+## Aufgabe 8: Linien Tabelle  
+**Aufgabe 8 a und b ) Linien-Abfrage  und View**    
+Diese Abfrage zeigt für Linie 4 alle Varianten der Richtungen ohne Redundanzen.  
+ 
 ![A8_a](/Bilder/A8a.jpg)  
 Und das entsprechende [Skript für 8 a und b](/Scripts/Aufgabe_8ab.sql)
 
-Aufgabe 8b) View mit Richtungen und alle Daten. 
-Hier ist Vorschau von dem View. Aus Platzgründen können nicht alle Daten abgebildet werden. 
+**Aufgabe 8b) View mit Richtungen und alle Daten**   
+Hier ist Vorschau von dem View. Aus Platzgründen können nicht alle Daten abgebildet werden.  
+ 
 ![A8_b](/Bilder/A8b.jpg) 
 
-Aufgabe 8c) Erstellen einer neuen Tabelle Linie mit Hilfe einer Abfrage
+**Aufgabe 8c) Erstellen einer neuen Tabelle Linie mit Hilfe einer Abfrage**  
 In diesem Teil wurde eine neue Tabelle mit dem Befehl "select distinct" erstellt.
 ![A8_c](/Bilder/A8c.jpg) 
 Das entsprende Skript ist unten verlinkt.   
