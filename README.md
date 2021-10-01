@@ -50,7 +50,7 @@ Das Resultierende ERD ist wie folgt abgebildet.
 Und Link zum [ERD-Diagramm](/Diagrams/Aufgabe6_ERD.erd), kann wahrscheinlich hier aber nicht angezeigt werden. 
 
 ## Aufgabe 10 und 11  
-**Verspätungsliste pro Linie und graphische Visualisierung**   
+#### Verspätungsliste pro Linie und graphische Visualisierung  
 Durch eine SQL-Abfrage über mehrere Tabellen habe ich eine Liste mit den 20 grössten Verspätungen erhalten.     
 
 ![Aufgabe 10](/Bilder/A10.jpg)  
