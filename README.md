@@ -71,6 +71,12 @@ Die Farbe der Icons war als standard Grün eingestellt, ich habe diese durch "Lay
 Wenn ich die Karte anschaue, stelle ich fest, dass die meisten von den grössten Verspätungen in Zürich Innenstadt waren. 
 
 ## Aufgabe 12   
+In dieser Aufgabe wurden die Soll-Abfahrtszeiten für einen bestimmten Tag ausgegeben.   
+Die Abfrage ist in Fahrplan Tabellenform. Ich habe die fahrweg_id 138613 ausgewählt, weil diese Linie von Bahnhof Altstetten bis Bahnhof Tiefenbrunnen, also durch alle Haltestellen fährt.  
+![Aufgabe 12](/Bilder/A12_value.jpg)   
+Die kleine aber zeitaufwendige [Sql-Datei](/Scripts/Aufgabe12.sql) befindet sich hier.  
+Unten ist ein Teil der Ausgabe wie folgt abgebildet.     
+![Aufgabe 12](/Bilder/A12.jpg) 
 
 
 
