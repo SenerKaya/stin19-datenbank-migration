@@ -76,7 +76,7 @@ Die Abfrage ist in Fahrplan Tabellenform. Ich habe die fahrweg_id 138613 ausgewä
   
 ![Aufgabe 12](/Bilder/A12_value.jpg)   
 Die kleine aber zeitaufwendige Sql-Datei befindet sich [hier.](/Scripts/Aufgabe12.sql)      
-Im unteren Bild sehen wir einen Teil der Ausgabe.   adsfasfdasdf
+Im unteren Bild sehen wir einen Teil der Ausgabe.
      
 ![Aufgabe 12](/Bilder/A12.jpg) 
 
