@@ -22,9 +22,9 @@ und die SQL-Datei dazu:
 ## Aufgabe 8: Linien Tabelle  
 **Aufgabe 8 a und b ) Linien-Abfrage  und View**    
 Diese Abfrage zeigt für Linie 4 alle Varianten von Richtungen ohne Redundanzen.  
-Ich habe für die Linie 4, 23 verschiedene
- 
+
 ![A8_a](/Bilder/A8a.jpg)  
+Ich habe für die Linie 4, 23 verschiedene Varianten von Richtungen erhalten. 
 Und das entsprechende [Skript für 8 a und b](/Scripts/Aufgabe_8ab.sql)
 
 **Aufgabe 8b) View mit allen Richtungen und alle Daten**   
