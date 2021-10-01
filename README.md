@@ -64,7 +64,7 @@ Durch eine SQL-Abfrage über mehrere Tabellen habe ich eine Liste mit den 20 grös
 ![Aufgabe 10](/Bilder/A10.jpg)  
 
 Diese Abfrage habe ich danach für den Export als .csv Format angepasst und anschliessend auf die Webseite [Maps.co](https://maps.co/) exportiert.  
-[Sql-Abfrage](/Scripts/Aufgabe10-11.sql)   
+[Sql-Abfrage](/Scripts/Aufgabe_10-11.sql)   
 [csv-Datei](/Dateien/aufgabe_11.csv)   
 
 Hier ist ein Printscreen des Export Assistenten.   
@@ -82,7 +82,7 @@ Bei dieser Aufgabe wurden die Soll-Abfahrtszeiten für einen bestimmten Tag ausge
 Die Abfrage ist in Fahrplan-Tabellenform. Ich habe die "fahrweg_id" 138613 ausgewählt, weil diese Linie von Bahnhof Altstetten bis Bahnhof Tiefenbrunnen, also alle Haltestellen durchfährt.  
   
 ![Aufgabe 12](/Bilder/A12_value.jpg)   
-Die kleine aber zeitaufwendige Sql-Datei befindet sich [hier.](/Scripts/Aufgabe12.sql)      
+Die kleine aber zeitaufwendige Sql-Datei befindet sich [hier.](/Scripts/Aufgabe_12.sql)      
 Im unteren Bild ist ein Teil der Ausgabe abgebildet.
      
 ![Aufgabe 12](/Bilder/A12.jpg) 
