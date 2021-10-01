@@ -48,9 +48,10 @@ Das entsprechende Skript ist unten verlinkt.
 Es wurde aus der "fahrzeiten_soll_ist" Tabelle eine vereinfachte Tabelle Ankuftszeiten erstellt.  
 Ich habe zusätzlich die sequenznummern hinzugefügt, damit ich sehe welche Stationen ausgewählt wurden.  
    
-![Aufgabe 9](/Bilder/A9.jpg) 
+![Aufgabe 9](/Bilder/A9.jpg)    
 
-Das Resultierende ERD ist wie folgt abgebildet. 
+Das Resultierende ERD ist wie folgt abgebildet.     
+
 ![Aufgabe 9](/Bilder/A9_erd.jpg)  
 
 Und Link zum [ERD-Diagramm](/Diagrams/Aufgabe6_ERD.erd), kann wahrscheinlich hier aber nicht angezeigt werden. 
