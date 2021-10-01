@@ -1,6 +1,7 @@
-# stin19-datenbank-migration-senerkaya
+# Datenbank-Migration
 
-## Aufgabe 6: Bereinigung der Tabellen und Constraints
+## Aufgabe 6
+### Bereinigung der Tabellen und Constraints
 Wir haben in dieser Aufgabe für die Tabellen "fahrzeiten_soll_ist, haltepunkt und haltestelle" Primary Keys und Foreign Keys bestimmt und erstellt.
 Danach haben wir die Attribute die ein Datum enthalten in Datumformat verwandelt. Diese waren vorhin in "char" Format.   
 Die SQL-Datei ist unter dem folgenden Link:  
@@ -9,7 +10,8 @@ Und ein [ERD-Diagramm](/Diagrams/Aufgabe6_ERD.erd)  erstellt, das wie folgt auss
 ![A6-erd](/Bilder/A6_Erd.jpg)  
 
 
-## Aufgabe 7:Erstellen Sie eine Abfrage über Zeitdifferenzen
+## Aufgabe 7
+### Erstellen einer Abfrage über Zeitdifferenzen
 In dieser Aufgabe haben wir mit Select Abfragen, die Zeitdiffenzen von Soll- und Ist-Abfahrten ermittelt.
 Da ich verantwortlich für die Linie 4 bin, habe ich die Abfrage für diese Linie filtiert.   
 Zusätzlich habe ich die Abfrage nach dem Datum "31.12.2020" filtiert und die fahrt_id 26192 ausgewählt.   
@@ -19,7 +21,8 @@ Hier ist eine Vorschau der Select Abfrage.
 und die SQL-Datei dazu:  
 [SQL-Datei Aufgabe 7](/Scripts/Aufgabe_7.sql)
 
-## Aufgabe 8: Linien Tabelle  
+## Aufgabe 8 
+### Linien Tabelle  
 **Aufgabe 8 a und b ) Linien-Abfrage  und View**    
 Diese Abfrage zeigt für Linie 4 alle Varianten von Richtungen ohne Redundanzen.  
 
@@ -40,7 +43,8 @@ In diesem Teil wurde eine neue Tabelle mit dem Befehl "select distinct" erstellt
 Das entsprechende Skript ist unten verlinkt.     
 [Link zu Skript Aufgabe 8c](/Scripts/Aufgabe_8c.sql)  
 
-## Aufgabe 9: Ankuftszeiten Tabelle  
+## Aufgabe 9 
+### Ankuftszeiten Tabelle  
 Es wurde aus der "fahrzeiten_soll_ist" Tabelle eine vereinfachte Tabelle Ankuftszeiten erstellt.  
 Ich habe zusätzlich die sequenznummern hinzugefügt, damit ich sehe welche Stationen ausgewählt wurden.  
    
@@ -70,7 +74,8 @@ Die Farbe der Icons war als standard Grün eingestellt, ich habe diese durch "Lay
 
 Wenn ich die Karte anschaue, stelle ich fest, dass die meisten von den grössten Verspätungen in Zürich Innenstadt waren. 
 
-## Aufgabe 12   
+## Aufgabe 12  
+### Fahrplan einer Linie 
 In dieser Aufgabe wurden die Soll-Abfahrtszeiten für einen bestimmten Tag ausgegeben.   
 Die Abfrage ist in Fahrplan Tabellenform. Ich habe die fahrweg_id 138613 ausgewählt, weil diese Linie von Bahnhof Altstetten bis Bahnhof Tiefenbrunnen, also durch alle Haltestellen fährt.  
   
@@ -80,8 +85,8 @@ Im unteren Bild sehen wir einen Teil der Ausgabe.
      
 ![Aufgabe 12](/Bilder/A12.jpg) 
 
-
-
+## Aufgabe 13
+### Nächste Stationen zu einer Standort in Zürich
 
  
 
