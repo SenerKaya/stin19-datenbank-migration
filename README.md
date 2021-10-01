@@ -73,9 +73,11 @@ Wenn ich die Karte anschaue, stelle ich fest, dass die meisten von den grössten 
 ## Aufgabe 12   
 In dieser Aufgabe wurden die Soll-Abfahrtszeiten für einen bestimmten Tag ausgegeben.   
 Die Abfrage ist in Fahrplan Tabellenform. Ich habe die fahrweg_id 138613 ausgewählt, weil diese Linie von Bahnhof Altstetten bis Bahnhof Tiefenbrunnen, also durch alle Haltestellen fährt.  
+  
 ![Aufgabe 12](/Bilder/A12_value.jpg)   
-Die kleine aber zeitaufwendige [Sql-Datei](/Scripts/Aufgabe12.sql) befindet sich hier.  
-Unten ist ein Teil der Ausgabe wie folgt abgebildet.     
+Die kleine aber zeitaufwendige Sql-Datei befindet sich [hier.](/Scripts/Aufgabe12.sql)      
+Im unteren Bild sehen wir einen Teil der Ausgabe.   adsfasfdasdf
+     
 ![Aufgabe 12](/Bilder/A12.jpg) 
 
 
