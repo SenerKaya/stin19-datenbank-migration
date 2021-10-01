@@ -6,6 +6,7 @@ select
 	
 	fsi.halt_punkt_id_von as haltepunkt_ID,
 	fsi.fahrweg_id, 
+	fsi.fahrt_id, 
     fsi.datumzeit_ist_an_von ,
     fsi.datumzeit_soll_an_von ,
     fsi.datumzeit_soll_ab_von, 
@@ -22,6 +23,7 @@ from
 	
 	fsi.halt_punkt_id_nach as haltepunkt_ID,
 	fsi.fahrweg_id, 
+	fsi.fahrt_id, 
     fsi.datumzeit_ist_an_nach ,
     fsi.datumzeit_soll_an_nach ,
     fsi.datumzeit_soll_ab_nach, 

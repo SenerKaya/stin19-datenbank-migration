@@ -5,14 +5,14 @@
 Wir haben bei dieser Aufgabe für die Tabellen "fahrzeiten_soll_ist, haltepunkt und haltestelle" alle Primary- und Foreign Keys erstellt.
 Danach haben wir die Attribute, die ein Datum enthalten von "String" ins Datumformat "Date oder Datetime" umgewandelt.      
 Die SQL-Datei befindet sich unter dem folgenden Link:  
-[SQL-Datei Aufgabe 6](/Scripts/Aufgabe_6.sql)  
-Und ein [ERD-Diagramm](/Diagrams/Aufgabe6_ERD.erd)  erstellt, das wie folgt aussieht.   
+[SQL-Datei](/Scripts/Aufgabe_6.sql)  
+Und ein [ERD-Diagramm](/Diagrams)  erstellt, das wie folgt aussieht.   
 ![A6-erd](/Bilder/A6_Erd.jpg)  
 
 
 ## Aufgabe 7
 ### Erstellen einer Abfrage über Zeitdifferenzen
-In dieser Aufgabe haben wir mit Select Abfragen, die Zeitdiffenzen von Soll- und Ist-Abfahrten ermittelt.
+Bei dieser Aufgabe haben wir mit Select Abfragen, die Zeitdiffenzen von Soll- und Ist-Abfahrten ermittelt.
 Da ich verantwortlich für die Linie 4 bin, habe ich die Abfrage für diese Linie filtiert.   
 Zusätzlich habe ich die Abfrage nach dem Datum "31.12.2020" filtiert und die fahrt_id 26192 ausgewählt.   
 Hier ist eine Vorschau der Select Abfrage.  
