@@ -12,7 +12,7 @@ Das [ERD-Diagramm](/Diagrams) davon, sieht wie folgt aus.
 ## Aufgabe 7
 ### Erstellen einer Abfrage über Zeitdifferenzen
 Bei dieser Aufgabe haben wir mit Select Abfragen, die Zeitdiffenzen von Soll- und Ist-Abfahrten ermittelt.
-Da ich verantwortlich für die Linie 4 bin, habe ich die Abfrage für diese Linie filtiert.   
+Da ich verantwortlich für die Linie 4 bin, habe ich die Abfrage für diese Linie filtiert, sodass nur Linie 4 sichtbar ist.   
 Zusätzlich habe ich die Abfrage nach dem Datum "31.12.2020" filtiert und die fahrt_id 26192 ausgewählt.   
 Hier ist eine Vorschau der Select Abfrage.  
   
@@ -24,10 +24,11 @@ und die SQL-Datei dazu:
 ### Linien Tabelle  
 **Aufgabe 8 a und b ) Linien-Abfrage  und View**    
 Diese Abfrage zeigt für Linie 4 alle Varianten von Richtungen ohne Redundanzen.  
+Ich habe für die Linie 4, 23 verschiedene Varianten von Richtungen erhalten.   
 
 ![A8_a](/Bilder/A8a.jpg)  
-Ich habe für die Linie 4, 23 verschiedene Varianten von Richtungen erhalten.    
-Hier ist das entsprechende Skript für die Aufgabe 8a und 8b.  
+   
+Hier ist das entsprechende Skript für die Aufgaben 8a und 8b.  
 [Skript 8a und 8b](/Scripts/Aufgabe_8ab.sql)
 
 **Aufgabe 8b) View mit allen Richtungen und alle Daten**   
@@ -50,11 +51,11 @@ Ich habe zusätzlich die sequenznummern hinzugefügt, damit ich sehe welche Statio
    
 ![Aufgabe 9](/Bilder/A9.jpg)    
 
-Das Resultierende ERD ist wie folgt abgebildet.     
+Das resultierende ERD ist wie folgt abgebildet.     
 
 ![Aufgabe 9](/Bilder/A9_erd.jpg)  
 
-Und Link zum [ERD-Diagramm](/Diagrams), kann wahrscheinlich hier aber nicht angezeigt werden. 
+Und Link zum [ERD-Diagramm](/Diagrams), kann wahrscheinlich hier nicht angezeigt werden. 
 
 ## Aufgabe 10 und 11  
 ### Verspätungsliste pro Linie und graphische Visualisierung  
@@ -82,12 +83,15 @@ Die Abfrage ist in Fahrplan-Tabellenform. Ich habe die "fahrweg_id" 138613 ausge
   
 ![Aufgabe 12](/Bilder/A12_value.jpg)   
 Die kleine aber zeitaufwendige Sql-Datei befindet sich [hier.](/Scripts/Aufgabe12.sql)      
-Im unteren Bild sehen wir einen Teil der Ausgabe.
+Im unteren Bild ist ein Teil der Ausgabe abgebildet.
      
 ![Aufgabe 12](/Bilder/A12.jpg) 
 
 ## Aufgabe 13
 ### Nächste Stationen zu einer Standort in Zürich
+
+## Aufgabe 14
+### Distanz zwischen zwei Haltestellen
 
  
 
