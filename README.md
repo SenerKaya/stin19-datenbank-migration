@@ -2,9 +2,9 @@
 
 ## Aufgabe 6
 ### Bereinigung der Tabellen und Constraints
-Wir haben in dieser Aufgabe für die Tabellen "fahrzeiten_soll_ist, haltepunkt und haltestelle" Primary Keys und Foreign Keys bestimmt und erstellt.
-Danach haben wir die Attribute die ein Datum enthalten in Datumformat verwandelt. Diese waren vorhin in "char" Format.   
-Die SQL-Datei ist unter dem folgenden Link:  
+Wir haben bei dieser Aufgabe für die Tabellen "fahrzeiten_soll_ist, haltepunkt und haltestelle" alle Primary- und Foreign Keys erstellt.
+Danach haben wir die Attribute, die ein Datum enthalten von "String" ins Datumformat "Date oder Datetime" umgewandelt.      
+Die SQL-Datei befindet sich unter dem folgenden Link:  
 [SQL-Datei Aufgabe 6](/Scripts/Aufgabe_6.sql)  
 Und ein [ERD-Diagramm](/Diagrams/Aufgabe6_ERD.erd)  erstellt, das wie folgt aussieht.   
 ![A6-erd](/Bilder/A6_Erd.jpg)  
