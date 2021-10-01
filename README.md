@@ -57,16 +57,16 @@ Durch eine SQL-Abfrage über mehrere Tabellen habe ich eine Liste mit den 20 grös
 
 Diese Abfrage habe ich danach für den Export als .csv Format angepasst und anschliessend auf die Webseite [Maps.co](https://maps.co/) exportiert.  
 [Sql-Abfrage](/Scripts/Aufgabe10-11.sql)   
-[csv-Datei](/Dateien)   
+[csv-Datei](/Dateien/aufgabe_11.csv)   
 
 
 ![Aufgabe 11_export](/Bilder/A11_export.jpg)  
 
 Nachdem ich die csv-Datei exportiert und angepasst habe, wurde folgende Map erstellt.   
-Die Farbe der Icons war als standard Grün eingestellt, ich habe diese durch "Layer Editor" auf violett geändert..   
+Die Farbe der Icons war als standard Grün eingestellt, ich habe diese durch "Layer Editor" auf violett geändert.     
 ![Aufgabe 11](/Bilder/A11_map.png)  
 
-Wenn ich die Karte anschaue, stelle ich fest, dass die meisten Verspätungen in Zürich Innenstadt waren. 
+Wenn ich die Karte anschaue, stelle ich fest, dass die meisten von den grössten Verspätungen in Zürich Innenstadt waren. 
 
    
 
