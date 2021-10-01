@@ -46,7 +46,7 @@ Das entsprechende Skript ist unten verlinkt.
 ## Aufgabe 9 
 ### Ankuftszeiten Tabelle  
 Es wurde aus der "fahrzeiten_soll_ist" Tabelle eine vereinfachte Tabelle Ankuftszeiten erstellt.  
-Ich habe zusätzlich die sequenznummern hinzugefügt, damit ich sehe welche Stationen ausgewählt wurden.
+Ich habe zusätzlich die sequenznummern hinzugefügt, damit ich sehe welche Stationen ausgewählt wurden.   
 [Link zu Skript](/Scripts/Aufgabe_9.sql) 
    
 ![Aufgabe 9](/Bilder/A9.jpg)    
@@ -67,7 +67,7 @@ Diese Abfrage habe ich danach für den Export als .csv Format angepasst und ansch
 [Sql-Abfrage](/Scripts/Aufgabe10-11.sql)   
 [csv-Datei](/Dateien/aufgabe_11.csv)   
 
-
+Hier ist ein Printscreen des Export Assistenten.   
 ![Aufgabe 11_export](/Bilder/A11_export.jpg)  
 
 Nachdem ich die csv-Datei exportiert und angepasst habe, wurde folgende Map erstellt.   
@@ -78,8 +78,8 @@ Wenn ich die Karte anschaue, stelle ich fest, dass die meisten von den grössten 
 
 ## Aufgabe 12  
 ### Fahrplan einer Linie 
-In dieser Aufgabe wurden die Soll-Abfahrtszeiten für einen bestimmten Tag ausgegeben.   
-Die Abfrage ist in Fahrplan Tabellenform. Ich habe die fahrweg_id 138613 ausgewählt, weil diese Linie von Bahnhof Altstetten bis Bahnhof Tiefenbrunnen, also durch alle Haltestellen fährt.  
+Bei dieser Aufgabe wurden die Soll-Abfahrtszeiten für einen bestimmten Tag ausgegeben.   
+Die Abfrage ist in Fahrplan-Tabellenform. Ich habe die "fahrweg_id" 138613 ausgewählt, weil diese Linie von Bahnhof Altstetten bis Bahnhof Tiefenbrunnen, also alle Haltestellen durchfährt.  
   
 ![Aufgabe 12](/Bilder/A12_value.jpg)   
 Die kleine aber zeitaufwendige Sql-Datei befindet sich [hier.](/Scripts/Aufgabe12.sql)      
