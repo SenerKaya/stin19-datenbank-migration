@@ -22,6 +22,7 @@ und die SQL-Datei dazu:
 ## Aufgabe 8: Linien Tabelle  
 **Aufgabe 8 a und b ) Linien-Abfrage  und View**    
 Diese Abfrage zeigt für Linie 4 alle Varianten von Richtungen ohne Redundanzen.  
+Ich habe für die Linie 4, 23 verschiedene
  
 ![A8_a](/Bilder/A8a.jpg)  
 Und das entsprechende [Skript für 8 a und b](/Scripts/Aufgabe_8ab.sql)
@@ -68,7 +69,8 @@ Die Farbe der Icons war als standard Grün eingestellt, ich habe diese durch "Lay
 
 Wenn ich die Karte anschaue, stelle ich fest, dass die meisten von den grössten Verspätungen in Zürich Innenstadt waren. 
 
-   
+## Aufgabe 12   
+
 
 
 

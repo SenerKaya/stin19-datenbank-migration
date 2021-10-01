@@ -1,3 +1,5 @@
+#Aufgabe 8c Erstellen der Tabelle linie
+
 use vbzdat;
 
 CREATE TABLE linie (PRIMARY KEY (fahrweg_id))
