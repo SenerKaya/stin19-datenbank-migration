@@ -49,19 +49,21 @@ Das Resultierende ERD ist wie folgt abgebildet.
 
 Und Link zum [ERD-Diagramm](/Diagrams/Aufgabe6_ERD.erd), kann wahrscheinlich hier aber nicht angezeigt werden. 
 
-## Aufgabe 10 und 11: Verspätungsliste pro Linie und graphische Visualisierung
+## Aufgabe 10 und 11:  
+**Verspätungsliste pro Linie und graphische Visualisierung**
 Durch eine SQL-Abfrage über mehrere Tabellen habe ich eine Liste mit den 20 grössten Verspätungen erhalten.     
 
 ![Aufgabe 10](/Bilder/A10.jpg)  
 
-Diese Abfrage habe ich danach für den Export als .csv Format angepasst.
-Das Resultat als Sql-Datei und exportierte .csv Datei habe ich unten verlinkt.
-   
+Diese Abfrage habe ich danach für den Export als .csv Format angepasst.  
 [Link zu Sql-Abfrage](/Scripts/Aufgabe10-11.sql)   
 [Link zu csv-Datei](/Dateien)   
+und anschliessend auf die Webseite [Maps.co](https://maps.co/) exportiert. 
 
-Nachdem ich die csv-Datei auf die Webseite [Maps.co](https://maps.co/) exportiert und angepasst habe, wurde folgende Map erstellt.  
-![Aufgabe 9](/Bilder/A11_map.png)  
+![Aufgabe 11_export](/Bilder/A11_export.jpg)  
+
+Nachdem ich die csv-Datei exportiert und angepasst habe, wurde folgende Map erstellt.  
+![Aufgabe 11](/Bilder/A11_map.png)  
 
 Wenn ich die Karte anschaue, stelle ich fest, dass die meisten Verspätungen in Zürich Zentrum waren. 
 
