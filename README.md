@@ -6,7 +6,7 @@ Bei dieser Aufgabe habe ich für die Tabellen "fahrzeiten_soll_ist, haltepunkt un
 Danach habe ich die Attribute, die ein Datum enthalten von "String" ins Datumformat "Date oder Datetime" umgewandelt.      
 Die SQL-Datei befindet sich unter dem folgenden Link:  
 [SQL-Datei](/Scripts/Aufgabe_6.sql)  
-Und ich habe ein [ERD-Diagramm](/Diagrams)  erstellt, das wie folgt aussieht.   
+Das [ERD-Diagramm](/Diagrams) davon, sieht wie folgt aus.   
 ![A6-erd](/Bilder/A6_Erd.jpg)  
 
 ## Aufgabe 7
