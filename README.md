@@ -18,7 +18,7 @@ Hier ist eine Vorschau der Select Abfrage.
   
 ![A7-Select](/Bilder/A7-Select.jpg)  
 Und hier ist die SQL-Datei dazu:  
-[Link zu SQL-Datei](/Scripts/Aufgabe_7.sql)
+[SQL-Datei Aufgabe 7](/Scripts/Aufgabe_7.sql)
 
 ## Aufgabe 8 
 ### Linien Tabelle  
@@ -28,8 +28,8 @@ Ich habe für die Linie 4, 23 verschiedene Varianten von Richtungen erhalten.
 
 ![A8_a](/Bilder/A8a.jpg)  
    
-Hier ist das entsprechende Skript für die Aufgaben 8a und 8b.  
-[Skript 8a und 8b](/Scripts/Aufgabe_8ab.sql)
+Hier ist das entsprechende Skript für die [Aufgaben  8a und 8b](/Scripts/Aufgabe_8ab.sql) 
+
 
 **Aufgabe 8b) View mit allen Richtungen und alle Daten**   
 Hier ist ein Ausschnitt von dem View. Aus Platzgründen können nicht alle Daten abgebildet werden.  
