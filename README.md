@@ -28,20 +28,21 @@ Ich habe für die Linie 4, 23 verschiedene Varianten von Richtungen erhalten.
 
 ![A8_a](/Bilder/A8a.jpg)  
    
-Hier ist das entsprechende Skript für die [Aufgaben  8a und 8b](/Scripts/Aufgabe_8ab.sql) 
+Hier ist das entsprechende Skript für die [Aufgaben  8a und 8b.](/Scripts/Aufgabe_8ab.sql) 
 
 
 **Aufgabe 8b) View mit allen Richtungen und alle Daten**   
 Hier ist ein Ausschnitt von dem View. Aus Platzgründen können nicht alle Daten abgebildet werden.  
  
 ![A8_b](/Bilder/A8b.jpg) 
-
+  
+  
 **Aufgabe 8c) Erstellen einer neuen Tabelle Linie mit Hilfe einer Abfrage**  
 In diesem Teil wurde eine neue Tabelle mit dem Befehl "select distinct" erstellt.
 ![A8_c](/Bilder/A8c.jpg)  
  
-Das entsprechende Skript ist unten verlinkt.     
-[Link zu Skript Aufgabe 8c](/Scripts/Aufgabe_8c.sql)  
+Hier ist das entsprechende Skript.    
+[SQL-Script Aufgabe 8c](/Scripts/Aufgabe_8c.sql)  
 
 ## Aufgabe 9 
 ### Ankuftszeiten Tabelle  
