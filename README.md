@@ -5,7 +5,7 @@
 Bei dieser Aufgabe habe ich für die Tabellen "fahrzeiten_soll_ist, haltepunkt und haltestelle" alle Primary- und Foreign Keys ermittelt und eingefügt.
 Danach habe ich die Attribute, die ein Datum enthalten von "String" ins Datumformat "Date oder Datetime" umgewandelt.      
 Die SQL-Datei befindet sich unter dem folgenden Link:  
-[SQL-Datei Aufgabe 6](/Scripts/Aufgabe_6.sql)  
+[SQL-Datei Aufgabe_6](/Scripts/Aufgabe_6.sql)  
 Das [ERD-Diagramm](/Diagrams) davon, sieht wie folgt aus.   
 ![A6-erd](/Bilder/A6_Erd.jpg)  
 
@@ -18,7 +18,7 @@ Hier ist eine Vorschau der Select Abfrage.
   
 ![A7-Select](/Bilder/A7-Select.jpg)  
 Und hier ist die SQL-Datei dazu:  
-[SQL-Datei Aufgabe 7](/Scripts/Aufgabe_7.sql)
+[SQL-Datei Aufgabe_7](/Scripts/Aufgabe_7.sql)
 
 ## Aufgabe 8 
 ### Linien Tabelle  
@@ -28,7 +28,7 @@ Ich habe für die Linie 4, 23 verschiedene Varianten von Richtungen erhalten.
 
 ![A8_a](/Bilder/A8a.jpg)  
    
-Hier ist das entsprechende Skript für die [Aufgaben  8a und 8b.](/Scripts/Aufgabe_8ab.sql) 
+Hier ist das entsprechende Skript für die [Aufgaben 8a und 8b.](/Scripts/Aufgabe_8ab.sql) 
 
 
 **Aufgabe 8b) View mit allen Richtungen und alle Daten**   
@@ -38,17 +38,18 @@ Hier ist ein Ausschnitt von dem View. Aus Platzgründen können nicht alle Daten a
   
   
 **Aufgabe 8c) Erstellen einer neuen Tabelle Linie mit Hilfe einer Abfrage**  
-In diesem Teil wurde eine neue Tabelle mit dem Befehl "select distinct" erstellt.
+In diesem Teil wurde eine neue Tabelle mit dem Befehl "select distinct" erstellt.  
+
 ![A8_c](/Bilder/A8c.jpg)  
  
 Hier ist das entsprechende Skript.    
-[SQL-Script Aufgabe 8c](/Scripts/Aufgabe_8c.sql)  
+[SQL-Script Aufgabe_8c](/Scripts/Aufgabe_8c.sql)  
 
 ## Aufgabe 9 
 ### Ankuftszeiten Tabelle  
 Es wurde aus der "fahrzeiten_soll_ist" Tabelle eine vereinfachte Tabelle Ankuftszeiten erstellt.  
 Ich habe zusätzlich die sequenznummern hinzugefügt, damit ich sehe welche Stationen ausgewählt wurden.   
-[Link zu Skript](/Scripts/Aufgabe_9.sql) 
+[Link zu Skript Aufgabe_9](/Scripts/Aufgabe_9.sql) 
    
 ![Aufgabe 9](/Bilder/A9.jpg)    
 
@@ -65,7 +66,7 @@ Durch eine SQL-Abfrage über mehrere Tabellen habe ich eine Liste mit den 20 grös
 ![Aufgabe 10](/Bilder/A10.jpg)  
 
 Diese Abfrage habe ich danach für den Export als .csv Format angepasst und anschliessend auf die Webseite [Maps.co](https://maps.co/) exportiert.  
-[Sql-Abfrage](/Scripts/Aufgabe_10-11.sql)   
+[Sql-Abfrage Aufgabe_10-11](/Scripts/Aufgabe_10-11.sql)   
 [csv-Datei](/Dateien/aufgabe_11.csv)   
 
 Hier ist ein Printscreen des Export Assistenten.   
