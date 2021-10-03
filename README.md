@@ -4,8 +4,7 @@
 ### Bereinigung der Tabellen und Constraints
 Bei dieser Aufgabe habe ich für die Tabellen "fahrzeiten_soll_ist, haltepunkt und haltestelle" alle Primary- und Foreign Keys ermittelt und eingefügt.
 Danach habe ich die Attribute, die ein Datum enthalten von "String" ins Datumformat "Date oder Datetime" umgewandelt.      
-Die SQL-Datei befindet sich unter dem folgenden Link:  
-[SQL-Datei Aufgabe_6](/Scripts/Aufgabe_6.sql)  
+Die SQL-Datei befindet sich unter dem folgenden Link:  [SQL-Datei Aufgabe_6](/Scripts/Aufgabe_6.sql)    
 Das [ERD-Diagramm](/Diagrams) davon, sieht wie folgt aus.   
 ![A6-erd](/Bilder/A6_Erd.jpg)  
 
@@ -28,7 +27,7 @@ Ich habe für die Linie 4, 23 verschiedene Varianten von Richtungen erhalten.
 
 ![A8_a](/Bilder/A8a.jpg)  
    
-Hier ist das entsprechende Skript für die [Aufgaben 8a und 8b.](/Scripts/Aufgabe_8ab.sql) 
+Hier ist das entsprechende Skript für die Aufgaben [8a und 8b.](/Scripts/Aufgabe_8ab.sql) 
 
 
 **Aufgabe 8b) View mit allen Richtungen und alle Daten**   
@@ -57,7 +56,7 @@ Das resultierende ERD ist wie folgt abgebildet.
 
 ![Aufgabe 9](/Bilder/A9_erd.jpg)  
 
-Und Link zum [ERD-Diagramm](/Diagrams), kann wahrscheinlich hier nicht angezeigt werden. 
+Und das Link zum [ERD-Diagramm](/Diagrams), kann wahrscheinlich hier nicht angezeigt werden. 
 
 ## Aufgabe 10 und 11  
 ### Verspätungsliste pro Linie und graphische Visualisierung  
@@ -73,10 +72,11 @@ Hier ist ein Printscreen des Export Assistenten.
 ![Aufgabe 11_export](/Bilder/A11_export.jpg)  
 
 Nachdem ich die csv-Datei exportiert und angepasst habe, wurde folgende Map erstellt.   
-Die Farbe der Icons war als standard Grün eingestellt, ich habe diese durch "Layer Editor" auf violett geändert.     
+Die Farbe der Icons war standard als Grün eingestellt, ich habe diese durch "Layer Editor" auf violett geändert.    
+   
 ![Aufgabe 11](/Bilder/A11_map.png)  
 
-Wenn ich die Karte anschaue, stelle ich fest, dass die meisten von den grössten Verspätungen in Zürich Innenstadt waren. 
+Wenn ich die Karte so anschaue, stelle ich fest, dass die meisten von den grössten Verspätungen in Zürich Innenstadt waren. 
 
 ## Aufgabe 12  
 ### Fahrplan einer Linie 
